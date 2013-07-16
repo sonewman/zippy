@@ -1,0 +1,1 @@
+## Zippy is a simple program to zip a folder using node in the cmd
