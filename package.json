@@ -1,4 +1,12 @@
 {
-	"name" : "zippy",
-	"version" : "0.0.1"
+  "name": "zippy",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "jasmine-node test/*.js"
+  },
+  "dependencies": {
+    "node-zip": "~1.0.1",
+    "colors": "~0.6.0-1",
+    "optimist": "~0.6.0"
+  }
 }
